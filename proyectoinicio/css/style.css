@@ -1,0 +1,74 @@
+html
+    {
+    font-size: 62.5%;
+    }
+    body
+    {
+    font-size: 16px;
+    }
+
+.h5azul{
+    color:white;
+    background-color: blue;
+}
+#projo{
+    color: white;
+    background-color: red;
+}
+.seccionPrueba h3{
+    color:white;
+    background-color: green;
+}
+
+.PRIMERO {
+    color: red;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+#SEGUNDO {
+    color: red;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 3rem;
+    background-color: green;
+}
+h6{
+    color: red;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.EJERCICIOSELECTORES P{
+    color: red;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+[src="./img/Logo-Adecco.png"]{
+     background-color: yellow;
+}
+.EJERCICIOSELECTORES > a{
+    color: red;
+    text-align:center;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+#segundoh3 , [src="./img/Logo-Adecco.png"]{
+    background-color: yellow;
+}
+h1{background: rgba(248, 102, 102, 0.65);
+    margin-bottom: 10px;
+    display: block;
+    font-weight: 800;
+    padding: 35px;
+    color: #fff;
+    font-size: 47px;
+    font-family: 'Open Sans', sans-serif;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    box-sizing: border-box;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+
+}
