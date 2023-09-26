@@ -1,3 +1,39 @@
+:root{
+    --colorPrincipal: #F76666;
+    --colorbase: #F76666;
+    --colorletrasazul:#02052F;
+    --fuenteprincipal:'Dancing Script',cursive;
+    --fuentespagina:'Open Sans', sans-serif
+}
+.cursos {
+    color: var(--colorPrincipal);
+    
+}
+h2 , h3 < {font-family: var(--fuentespagina);
+
+}
+
+html
+    {
+    font-size: 62.5%;
+    }
+    
+body
+    {
+    font-size: 16px;
+    }
+
+
+h1{
+    color: rgb(245, 24, 24);
+    font-size: 4.5rem;
+    background-color: rgba(248, 102, 102, 0.65);
+    font-weight: 800;
+    padding: 35px;
+    margin-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.2;
+} 
 html
     {
     font-size: 62.5%;
@@ -62,7 +98,7 @@ h1{background: rgba(248, 102, 102, 0.65);
     display: block;
     font-weight: 800;
     padding: 35px;
-    color: #fff;
+    color: #c72020;
     font-size: 47px;
     font-family: 'Open Sans', sans-serif;
     margin-block-start: 0.83em;
@@ -70,5 +106,5 @@ h1{background: rgba(248, 102, 102, 0.65);
     box-sizing: border-box;
     margin-block-start: 0.83em;
     margin-block-end: 0.83em;
-
+    color: var(--colorPrincipal);
 }
